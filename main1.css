@@ -1,0 +1,25 @@
+
+.boxa{
+    background: silver;
+    height: 100px;
+    text-align: center;
+    margin: 5px;
+}
+.twobox{
+    display: flex;
+    flex-direction: row;
+}
+.boxb{
+    background-color: silver;
+    height: 600px;
+    width: 100%;
+    text-align: center;
+    margin: 5px;
+}
+.boxc {
+    background-color: silver;
+    height: 600px;
+    width: 800px;
+    text-align: center;
+    margin: 5px;
+}

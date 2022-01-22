@@ -1,0 +1,52 @@
+.header{
+    background: blue;
+    height: 150px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    font-size: 20px;
+    color: white;
+}
+.nav{
+    display: flex;
+    background: darkblue;
+    height: 120px;
+    justify-content: space-evenly;
+    align-items: center;
+    font-size: 20px;
+    color: white;
+}
+.cont{
+    display: flex;
+    flex-direction: row;
+
+}
+.maine{
+    background: cornflowerblue;
+    height: 600px;
+    width: 80%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    font-size: 20px;
+    color: white;
+}
+.aside{
+    background: blueviolet;
+    height: 600px;
+    width: 20%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    font-size: 20px;
+    color: white;
+}
+.footer{
+    display: flex;
+    background: blue;
+    height: 150px;
+    justify-content: space-evenly;
+    align-items: center;
+    font-size: 20px;
+    color: white;
+}
