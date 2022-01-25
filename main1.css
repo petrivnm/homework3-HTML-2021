@@ -1,25 +1,28 @@
-
-.boxa{
-    background: silver;
-    height: 100px;
-    text-align: center;
-    margin: 5px;
-}
-.twobox{
+.disp-flex-row{
     display: flex;
     flex-direction: row;
 }
-.boxb{
-    background-color: silver;
+.bg-silver-base {
+    background: silver;
+}
+.h600{
     height: 600px;
-    width: 100%;
-    text-align: center;
+}
+.marg5{
     margin: 5px;
 }
-.boxc {
-    background-color: silver;
-    height: 600px;
-    width: 800px;
+.text-centr{
     text-align: center;
-    margin: 5px;
+}
+.h100{
+    height: 100px;
+}
+.h600{
+    height: 600px;
+}
+.w100{
+    width: 100%;
+}
+.w800{
+    width: 800px;
 }

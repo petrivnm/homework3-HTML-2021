@@ -1,52 +1,45 @@
-.header{
-    background: blue;
-    height: 150px;
-    display: flex;
-    justify-content: space-evenly;
-    align-items: center;
-    font-size: 20px;
-    color: white;
-}
-.nav{
-    display: flex;
-    background: darkblue;
-    height: 120px;
-    justify-content: space-evenly;
-    align-items: center;
-    font-size: 20px;
-    color: white;
-}
-.cont{
-    display: flex;
-    flex-direction: row;
-
-}
-.maine{
-    background: cornflowerblue;
-    height: 600px;
-    width: 80%;
-    display: flex;
-    justify-content: space-evenly;
-    align-items: center;
-    font-size: 20px;
-    color: white;
-}
-.aside{
-    background: blueviolet;
-    height: 600px;
+.w20{
     width: 20%;
-    display: flex;
-    justify-content: space-evenly;
-    align-items: center;
-    font-size: 20px;
+}
+.w80{
+    width: 80%;
+}
+.flex-dir-row{
+    flex-direction: row;
+}
+.col-white-base{
     color: white;
 }
-.footer{
-    display: flex;
-    background: blue;
-    height: 150px;
-    justify-content: space-evenly;
-    align-items: center;
+.font-s20{
     font-size: 20px;
-    color: white;
+}
+.alg-centr{
+    align-items: center;
+}
+.just-content{
+    justify-content: space-evenly;
+}
+.disp-flex{
+    display: flex;
+}
+.h150{
+    height: 150px;
+}
+.h120{
+    height: 120px;
+}
+.h600{
+    height: 600px;
+}
+.bg-blue-base{
+    background: blue;
+}
+.bg-darkblue{
+    background: darkblue;
+}
+.bg-cornflowerblue{
+    background: cornflowerblue;
+}
+.bg-bluevilet{
+    background: blueviolet;
 }

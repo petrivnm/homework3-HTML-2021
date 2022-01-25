@@ -1,40 +1,39 @@
-.widgets{
-    display: flex;
-    justify-content: space-evenly;
-    align-items: center;
-    background: cornflowerblue;
-    height: 400px;
-    text-align: center;
-    margin: 5px;
-    font-size: 30px;
-    color: white;
-
-}
-.Bwidgets{
-    display: flex;
+.flex-dir-row{
     flex-direction: row;
-    text-align: center;
-    font-size: 20px;
-    color: white;
-
 }
-.box{
-    display: flex;
-    justify-content: space-evenly;
-    align-items: center;
-    background: blue;
-    height: 400px;
-    width: 33%;
-    margin: 5px;
-}
-.contact{
-    display: flex;
-    justify-content: space-evenly;
-    align-items: center;
-    background: cornflowerblue;
-    text-align: center;
-    height: 800px;
-    margin: 5px;
+.font-s30{
     font-size: 30px;
+}
+.font-s20{
+    font-size: 20px;
+}
+.w33{
+    width: 33%;
+}
+.h800{
+    height: 800px;
+}
+.h400{
+    height: 400px;
+}
+.marg5{
+    margin: 5px;
+}
+.bg-blue-base{
+    background: blue;
+}
+.bg-cornflowerblue{
+    background: cornflowerblue;
+}
+.alg-centr{
+    align-items: center;
+}
+.just-content{
+    justify-content: space-evenly;
+}
+.disp-flex{
+    display: flex;
+}
+.col-white-base{
     color: white;
 }
